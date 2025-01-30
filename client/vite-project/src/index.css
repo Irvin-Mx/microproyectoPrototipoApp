@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+.nunitoFont{
+  font-family: 'Nunito', sans-serif;
+}
+
+.latoFont{
+  font-family: 'Lato', sans-serif;
+}
